@@ -6,6 +6,7 @@ At the moment, the notebooks are separated for each gear configuration. At some 
 There are 3 notebooks. 2 to simulate a sizeable amount of fights to estimate an average DPS for the provided stats and specials (Trinkets _TBD_, Chaotic Skyfire Diamond, Spellfire and Spellstrike set bonuses). By default, it's a 90s fight length.
 - dps_generator_starfire.ipynb
 - dps_generator_wrath.ipynb : 
+
 One to calculate stats coefficients :
 - coefficient_calculation.ipynb 
 
