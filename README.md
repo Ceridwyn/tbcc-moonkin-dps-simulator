@@ -22,6 +22,8 @@ Then, all you have to do to sim your gear is to fill in the stats :
 
 NB : Haste is not implemented yet.
 
+And run the two first cells. You will see the DPS calculated. You can increase the number of loops to have a more accurate result.
+
 # Todo-list :
 - code each trinket
 - include Spell haste
