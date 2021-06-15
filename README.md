@@ -12,12 +12,14 @@ One to calculate stats coefficients :
 
 # How to use the DPS generator :
 Start the notebook in Jupyter. If you don't know how to run Jupyter, either run it there : https://nbviewer.jupyter.org/ or install Anaconda on your computer and run "jupyter notebook" in your Operating System's command prompt (cmd in windows).
+
 Then, all you have to do to sim your gear is to fill in the stats :
-intel = 356
-crit_score = 336
-hit_score = 141
-spellpower = 835
-haste = 0
+- intel = 356
+- crit_score = 336
+- hit_score = 141
+- spellpower = 835
+- haste = 0
+
 NB : Haste is not implemented yet.
 
 # Todo-list :
